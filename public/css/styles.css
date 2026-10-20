@@ -4,3 +4,16 @@ Aquí usamos características nativas de CSS3:
  (auto-fill y minas), transiciones, sombras y 
  media queries. Cero frameworks.
 */
+:root 
+{
+    --color-primario: #2e7d32;
+    --color-primario-oscuro: #1b5e20;
+    --color-secundario: #f57c00;
+    --color-peligro: #c62828;
+    --color-fondo: #f4f7f6;
+    --color-blanco: #ffffff;
+    --color-texto: #263238;
+    --sombra-suave: 0 4px 12px rgba(0, 0, 0, 0.08);
+    --radio-borde: 8px;
+    --transicion: all 0.25s ease-in-out; 
+}
